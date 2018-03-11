@@ -1,31 +1,47 @@
-<!DOCTYPE html><html><head>
+<!DOCTYPE html>
 
-<title>Calculator</title><meta charset="utf-8">
+<html>
 
-<script type="text/javascript">
+	<head>
 
-function cube() {
+		<title>Calculator</title><meta charset="utf-8">
 
-var num = document.getElementById("n1");
+		<script type="text/javascript">
 
-num.value = Math.pow(num.value, 3);
+			function cube() {
 
-}
+				var num = document.getElementById("n1");
 
-</script>
+				num.value = Math.pow(num.value, 3);
 
-</head>
+			}
 
-<body>
+			function sin() {
 
-<h1>Calculadora de Jose Lopez Nieves</h1>
+				var num = document.getElementById("n1");
 
-Number:
+				num.value = Math.sin(num.value);
 
-<input type="text" id="n1"><p>
+			}
 
-<button onclick="cube()"> x^3 </button>
+		</script>
 
-</body>
+	</head>
+
+	<body>
+
+		<h1>Calculadora de Jose Lopez Nieves</h1>
+
+		Number:
+
+		<input type="text" id="n1">
+
+		<p>
+
+		<button onclick="cube()"> x^3 </button>
+
+		<button onclick="sin()"> sin(x) </button>
+
+	</body>
 
 </html>
