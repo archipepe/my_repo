@@ -1,4 +1,4 @@
 {
-  pc: ["chrome", "chromium"],
-  mobile: ["edge", "edge chromium"]
+  "pc": ["chrome", "chromium"],
+  "mobile": ["edge", "edge chromium"]
 }
