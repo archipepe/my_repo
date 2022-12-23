@@ -1,2 +1,4 @@
-Hola
-Adios
+{
+  pc: ["chrome", "chromium"],
+  mobile: ["edge", "edge chromium"]
+}
