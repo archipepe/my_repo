@@ -1554,7 +1554,7 @@
 				"top tv series"
 			],
 			"mobile": [
-			    null
+			    ""
 			]
 		},
 		"odd": {
@@ -1642,7 +1642,7 @@
 				"prueba"
 			],
 			"mobile": [
-			    null
+			    ""
 			]
 		},
 		"odd": {
@@ -1650,7 +1650,7 @@
 				"recommended opengapps"
 			],
 			"mobile": [
-			    null
+			    ""
 			]
 		},
 		"complete": {
@@ -1741,10 +1741,10 @@
 		},
 		"odd": {
 			"pc": [
-			    null
+			    ""
 			],
 			"mobile": [
-			    null
+			    ""
 			]
 		},
 		"complete": {
@@ -1827,7 +1827,7 @@
 				"logitech gestures"
 			],
 			"mobile": [
-			    null
+			    ""
 			]
 		},
 		"complete": {
@@ -2077,7 +2077,7 @@
 				"lastpass"
 			],
 			"mobile": [
-			    null
+			    ""
 			]
 		},
 		"complete": {
@@ -2242,7 +2242,7 @@
 				"dup backstop"
 			],
 			"mobile": [
-			    null
+			    ""
 			]
 		},
 		"odd": {
@@ -2251,7 +2251,7 @@
 				"elevate app French"
 			],
 			"mobile": [
-			    null
+			    ""
 			]
 		},
 		"complete": {
@@ -2418,7 +2418,7 @@
 	"25": {
 		"even": {
 			"pc": [
-			    null
+			    ""
 			],
 			"mobile": [
 				"birds cats"
@@ -2502,7 +2502,7 @@
 				"venom precuela"
 			],
 			"mobile": [
-			    null
+			    ""
 			]
 		},
 		"odd": {
@@ -2580,7 +2580,7 @@
 	"27": {
 		"even": {
 			"pc": [
-			    null
+			    ""
 			],
 			"mobile": [
 				"carousel"
@@ -2658,7 +2658,7 @@
 	"28": {
 		"even": {
 			"pc": [
-			    null
+			    ""
 			],
 			"mobile": [
 				"acrotray"
@@ -2739,15 +2739,15 @@
 				"kanji"
 			],
 			"mobile": [
-			    null
+			    ""
 			]
 		},
 		"odd": {
 			"pc": [
-			    null
+			    ""
 			],
 			"mobile": [
-			    null
+			    ""
 			]
 		},
 		"complete": {
@@ -2823,7 +2823,7 @@
 				"nuevo Citroen c3 naranja power"
 			],
 			"mobile": [
-			    null
+			    ""
 			]
 		},
 		"odd": {
@@ -2831,7 +2831,7 @@
 				"que es el tae coche"
 			],
 			"mobile": [
-			    null
+			    ""
 			]
 		},
 		"complete": {
@@ -2902,7 +2902,7 @@
 				"regex"
 			],
 			"mobile": [
-			    null
+			    ""
 			]
 		},
 		"odd": {
@@ -2912,7 +2912,7 @@
 				"baja autonomo"
 			],
 			"mobile": [
-			    null
+			    ""
 			]
 		},
 		"complete": {
