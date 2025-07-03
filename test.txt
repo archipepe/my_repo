@@ -42,7 +42,6 @@
 				"sololearn python",
 				"sololearn java",
 				"windows phone development",
-				"c#",
 				"resistencia zapata de piel",
 				"bicicleta estática resistencia mecánica vs",
 				"worten",
