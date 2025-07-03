@@ -79,13 +79,6 @@
 		},
 		"complete": {
 			"pc": [
-				"wamp bitnami",
-				"wampserver download",
-				"xampp windows 10 64bits",
-				"xampp download",
-				"xampp requirements",
-				"xampp windows 10 32bits",
-				"xampp portable",
 				"samsung dual screen mode",
 				"samsung dual screen laptop",
 				"samsung dual screen mobile",
@@ -94,8 +87,6 @@
 				"samsung foldable dual screen smartphone",
 				"huawei",
 				"huawei p30",
-				"edge",
-				"edge chromium",
 				"flutter sdk",
 				"flutter ios",
 				"codecademy",
@@ -103,7 +94,6 @@
 				"codecademy sql",
 				"codecademy python",
 				"codecademy html",
-				"codecademy python 3",
 				"codecademy pro",
 				"udemy",
 				"udemy cursos",
@@ -1563,7 +1553,9 @@
 			"pc": [
 				"top tv series"
 			],
-			"mobile": []
+			"mobile": [
+			    null
+			]
 		},
 		"odd": {
 			"pc": [
@@ -1649,13 +1641,17 @@
 				"Windows 10 no sound",
 				"prueba"
 			],
-			"mobile": []
+			"mobile": [
+			    null
+			]
 		},
 		"odd": {
 			"pc": [
 				"recommended opengapps"
 			],
-			"mobile": []
+			"mobile": [
+			    null
+			]
 		},
 		"complete": {
 			"pc": [
@@ -1744,8 +1740,12 @@
 			]
 		},
 		"odd": {
-			"pc": [],
-			"mobile": []
+			"pc": [
+			    null
+			],
+			"mobile": [
+			    null
+			]
 		},
 		"complete": {
 			"pc": [
@@ -1826,7 +1826,9 @@
 			"pc": [
 				"logitech gestures"
 			],
-			"mobile": []
+			"mobile": [
+			    null
+			]
 		},
 		"complete": {
 			"pc": [
@@ -2074,7 +2076,9 @@
 				"madrid lat long",
 				"lastpass"
 			],
-			"mobile": []
+			"mobile": [
+			    null
+			]
 		},
 		"complete": {
 			"pc": [
@@ -2237,14 +2241,18 @@
 				"Gibraltar Brexit",
 				"dup backstop"
 			],
-			"mobile": []
+			"mobile": [
+			    null
+			]
 		},
 		"odd": {
 			"pc": [
 				"afficher",
 				"elevate app French"
 			],
-			"mobile": []
+			"mobile": [
+			    null
+			]
 		},
 		"complete": {
 			"pc": [
@@ -2409,7 +2417,9 @@
 	},
 	"25": {
 		"even": {
-			"pc": [],
+			"pc": [
+			    null
+			],
 			"mobile": [
 				"birds cats"
 			]
@@ -2491,7 +2501,9 @@
 				"la red sandra bullock",
 				"venom precuela"
 			],
-			"mobile": []
+			"mobile": [
+			    null
+			]
 		},
 		"odd": {
 			"pc": [
@@ -2567,7 +2579,9 @@
 	},
 	"27": {
 		"even": {
-			"pc": [],
+			"pc": [
+			    null
+			],
 			"mobile": [
 				"carousel"
 			]
@@ -2643,7 +2657,9 @@
 	},
 	"28": {
 		"even": {
-			"pc": [],
+			"pc": [
+			    null
+			],
 			"mobile": [
 				"acrotray"
 			]
@@ -2722,11 +2738,17 @@
 				"wielding",
 				"kanji"
 			],
-			"mobile": []
+			"mobile": [
+			    null
+			]
 		},
 		"odd": {
-			"pc": [],
-			"mobile": []
+			"pc": [
+			    null
+			],
+			"mobile": [
+			    null
+			]
 		},
 		"complete": {
 			"pc": [
@@ -2800,13 +2822,17 @@
 				"c3 aircross",
 				"nuevo Citroen c3 naranja power"
 			],
-			"mobile": []
+			"mobile": [
+			    null
+			]
 		},
 		"odd": {
 			"pc": [
 				"que es el tae coche"
 			],
-			"mobile": []
+			"mobile": [
+			    null
+			]
 		},
 		"complete": {
 			"pc": [
@@ -2875,7 +2901,9 @@
 				"regex any character",
 				"regex"
 			],
-			"mobile": []
+			"mobile": [
+			    null
+			]
 		},
 		"odd": {
 			"pc": [
@@ -2883,7 +2911,9 @@
 				"obtención certificado digital",
 				"baja autonomo"
 			],
-			"mobile": []
+			"mobile": [
+			    null
+			]
 		},
 		"complete": {
 			"pc": [
