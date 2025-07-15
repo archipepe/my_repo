@@ -7,12 +7,14 @@
 				"flutter"
 			],
 			"mobile": [
-				"udemy diseño"
+				"udemy diseño",
+				"udemy web gratis"
 			]
 		},
 		"odd": {
 			"pc": [
-				""
+				"tony cruz",
+				"tony cantó"
 			],
 			"mobile": [
 				"how to build exe",
@@ -87,15 +89,18 @@
 				"apple osx"
 			],
 			"mobile": [
-				"javascript setinterval"
+				"javascript setinterval",
+				"javascript settimeout"
 			]
 		},
 		"odd": {
 			"pc": [
-				"spain rain radar"
+				"spain rain radar",
+				"weather forecast"
 			],
 			"mobile": [
-				""
+				"ich heisse",
+				"me llamo"
 			]
 		},
 		"complete": {
@@ -165,10 +170,12 @@
 		},
 		"odd": {
 			"pc": [
-				"mediamarkt"
+				"mediamarkt",
+				"worten"
 			],
 			"mobile": [
-				""
+				"carné conducir",
+				"autoescuelas"
 			]
 		},
 		"complete": {
@@ -225,7 +232,8 @@
 	"4": {
 		"even": {
 			"pc": [
-				"Citroen C3 screen problems"
+				"Citroen C3 screen problems",
+				"nuevo c3"
 			],
 			"mobile": [
 				"brave",
@@ -238,7 +246,9 @@
 				"aranjuez vips"
 			],
 			"mobile": [
-				"metasploit"
+				"metasploit",
+				"kali",
+				"kali linux"
 			]
 		},
 		"complete": {
@@ -301,10 +311,13 @@
 	"5": {
 		"even": {
 			"pc": [
-				"canillas"
+				"canillas",
+				"clínica canillas"
 			],
 			"mobile": [
-				"pascua"
+				"pascua",
+				"semana pascua",
+				"isla de pascua"
 			]
 		},
 		"odd": {
@@ -314,7 +327,8 @@
 				"tamagotchi pix party"
 			],
 			"mobile": [
-				""
+				"real madrid",
+				"atlético de madrid"
 			]
 		},
 		"complete": {
@@ -381,7 +395,8 @@
 				"google drive"
 			],
 			"mobile": [
-				"github smart tube next"
+				"github smart tube next",
+				"vance"
 			]
 		},
 		"odd": {
@@ -390,7 +405,8 @@
 				"urkel actor"
 			],
 			"mobile": [
-				"blinco"
+				"blinco",
+				"sinónimos salto"
 			]
 		},
 		"complete": {
@@ -456,7 +472,8 @@
 				"lineage monochrome"
 			],
 			"mobile": [
-				"regedit languages list"
+				"regedit languages list",
+				"windows uninstall language"
 			]
 		},
 		"odd": {
@@ -536,7 +553,8 @@
 				"saber"
 			],
 			"mobile": [
-				"saga Bourne"
+				"saga Bourne",
+				"protagonista matrix"
 			]
 		},
 		"odd": {
@@ -707,7 +725,8 @@
 				"porcelana"
 			],
 			"mobile": [
-				"brave apk"
+				"brave apk",
+				"brave nightly"
 			]
 		},
 		"complete": {
@@ -769,10 +788,12 @@
 	"11": {
 		"even": {
 			"pc": [
-				"html5 input number positive"
+				"html5 input number positive",
+				"maxcharacters input"
 			],
 			"mobile": [
-				"jquery addclass"
+				"jquery addclass",
+				"jquery hasclass"
 			]
 		},
 		"odd": {
@@ -781,7 +802,8 @@
 				"node js"
 			],
 			"mobile": [
-				"whit monday"
+				"whit monday",
+				"pentecostés francés"
 			]
 		},
 		"complete": {
@@ -853,7 +875,8 @@
 		},
 		"odd": {
 			"pc": [
-				"build"
+				"build",
+				"compile"
 			],
 			"mobile": [
 				"expand vdisk",
@@ -923,7 +946,8 @@
 		},
 		"odd": {
 			"pc": [
-				"ejemplo fines publicitarios irpf"
+				"ejemplo fines publicitarios irpf",
+				"manuales declaración renta"
 			],
 			"mobile": [
 				"java array",
@@ -1003,7 +1027,8 @@
 				"ubuntu fsck on boot"
 			],
 			"mobile": [
-				"clean yellow phone case"
+				"clean yellow phone case",
+				"5 minutes hacks"
 			]
 		},
 		"complete": {
@@ -1059,10 +1084,12 @@
 	"15": {
 		"even": {
 			"pc": [
-				"top tv series"
+				"top tv series",
+				"emule"
 			],
 			"mobile": [
-				""
+				"mundial fútbol",
+				"olimpiadas"
 			]
 		},
 		"odd": {
@@ -1071,7 +1098,8 @@
 				"criterios contacto estrecho"
 			],
 			"mobile": [
-				"glpi plugins"
+				"glpi plugins",
+				"gapps pico"
 			]
 		},
 		"complete": {
@@ -1136,15 +1164,20 @@
 				"prueba"
 			],
 			"mobile": [
-				""
+				"amazon prime",
+				"aws"
 			]
 		},
 		"odd": {
 			"pc": [
-				"recommended opengapps"
+				"recommended opengapps",
+				"cyanogenmod vanilla"
 			],
 			"mobile": [
-				""
+				"macos x",
+				"debian",
+				"suse linux",
+				"lubuntu"
 			]
 		},
 		"complete": {
@@ -1206,7 +1239,8 @@
 	"17": {
 		"even": {
 			"pc": [
-				"te"
+				"te",
+				"beneficios del té"
 			],
 			"mobile": [
 				"sneaker laces",
@@ -1216,10 +1250,13 @@
 		},
 		"odd": {
 			"pc": [
-				""
+				"aliexpress",
+				"airbnb"
 			],
 			"mobile": [
-				""
+				"booking",
+				"bankinter",
+				"traductor online"
 			]
 		},
 		"complete": {
@@ -1286,10 +1323,12 @@
 		},
 		"odd": {
 			"pc": [
-				"logitech gestures"
+				"logitech gestures",
+				"prime video"
 			],
 			"mobile": [
-				""
+				"leroy merlin",
+				"brico depot"
 			]
 		},
 		"complete": {
@@ -1347,12 +1386,14 @@
 				"hostinger php version"
 			],
 			"mobile": [
-				"000webhost run console"
+				"000webhost run console",
+				"ssh ftp"
 			]
 		},
 		"odd": {
 			"pc": [
-				"jquery ajax"
+				"jquery ajax",
+				"javascritp xhr"
 			],
 			"mobile": [
 				"hola",
@@ -1419,12 +1460,14 @@
 				"Restaurantes con terraza"
 			],
 			"mobile": [
-				"padel"
+				"padel",
+				"aprender padel"
 			]
 		},
 		"odd": {
 			"pc": [
-				"calendario escolar"
+				"calendario escolar",
+				"calendario laborables"
 			],
 			"mobile": [
 				"tapón en el oido",
@@ -1445,7 +1488,6 @@
 				"kb4524570",
 				"memrise marco mail",
 				"memrise marco mail",
-				"",
 				"visual studio code fix indentation",
 				"está seguro de que",
 				"extensión Adobe illustrator",
@@ -1500,7 +1542,8 @@
 				"lastpass"
 			],
 			"mobile": [
-				""
+				"procesador cuántico",
+				"descifrar pass"
 			]
 		},
 		"complete": {
@@ -1512,7 +1555,6 @@
 				"firebase",
 				"maps",
 				"panaria Madrid",
-				"y6ys0xsl",
 				"flutter image picker hangs",
 				"total first ow30 maximo km",
 				"total first ow30 Cambio aceite",
@@ -1563,10 +1605,12 @@
 	"22": {
 		"even": {
 			"pc": [
-				"free google apis"
+				"free google apis",
+				"google translate"
 			],
 			"mobile": [
-				"css transform"
+				"css transform",
+				"css advanced"
 			]
 		},
 		"odd": {
@@ -1640,7 +1684,8 @@
 				"dup backstop"
 			],
 			"mobile": [
-				""
+				"maria pombo",
+				"kardashian"
 			]
 		},
 		"odd": {
@@ -1649,7 +1694,8 @@
 				"elevate app French"
 			],
 			"mobile": [
-				""
+				"wimbledon",
+				"roland garros"
 			]
 		},
 		"complete": {
@@ -1791,18 +1837,24 @@
 	"25": {
 		"even": {
 			"pc": [
-				""
+				"angry birds",
+				"solitaire",
+				"free windows games"
 			],
 			"mobile": [
-				"birds cats"
+				"birds cats",
+				"videos for cats"
 			]
 		},
 		"odd": {
 			"pc": [
-				"voisin espagnol"
+				"voisin espagnol",
+				"nachbar"
 			],
 			"mobile": [
-				"ikea"
+				"ikea",
+				"leroy merlin",
+				"jysk"
 			]
 		},
 		"complete": {
@@ -1864,7 +1916,8 @@
 				"venom precuela"
 			],
 			"mobile": [
-				""
+				"iron man",
+				"marvel disney"
 			]
 		},
 		"odd": {
@@ -1926,15 +1979,19 @@
 	"27": {
 		"even": {
 			"pc": [
-				""
+				"typescript",
+				"react",
+				"angular"
 			],
 			"mobile": [
-				"carousel"
+				"carousel",
+				"bootstrap"
 			]
 		},
 		"odd": {
 			"pc": [
-				"pms stands for"
+				"pms stands for",
+				"acrónimos habituales"
 			],
 			"mobile": [
 				"revista telva",
@@ -1993,10 +2050,13 @@
 	"28": {
 		"even": {
 			"pc": [
-				""
+				"peugeot",
+				"rent a car",
+				"alquiler de coches"
 			],
 			"mobile": [
-				"acrotray"
+				"acrotray",
+				"optimize ram"
 			]
 		},
 		"odd": {
@@ -2064,15 +2124,21 @@
 				"kanji"
 			],
 			"mobile": [
-				""
+				"huawei",
+				"huawei embargo",
+				"huawei eu"
 			]
 		},
 		"odd": {
 			"pc": [
-				""
+				"trivago",
+				"tripadvisor",
+				"junkers"
 			],
 			"mobile": [
-				""
+				"ahorramás",
+				"endesa",
+				"tarfia social"
 			]
 		},
 		"complete": {
@@ -2138,15 +2204,20 @@
 				"nuevo Citroen c3 naranja power"
 			],
 			"mobile": [
-				""
+				"programación tv",
+				"novedades tv",
+				"series netflix"
 			]
 		},
 		"odd": {
 			"pc": [
-				"que es el tae coche"
+				"protonmail",
+				"outlook alternative"
 			],
 			"mobile": [
-				""
+				"programas instalados",
+				"agregar o quitar programas",
+				"forzar desinstalar"
 			]
 		},
 		"complete": {
@@ -2209,17 +2280,20 @@
 				"regex"
 			],
 			"mobile": [
-				""
+				"tandem",
+				"duo",
+				"memrise"
 			]
 		},
 		"odd": {
 			"pc": [
-				"sepe villacañas",
 				"obtención certificado digital",
 				"baja autonomo"
 			],
 			"mobile": [
-				""
+				"aeat",
+				"jccm",
+				"mi carpeta ciudadana"
 			]
 		},
 		"complete": {
