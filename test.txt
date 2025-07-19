@@ -1717,7 +1717,6 @@
 				"oracle virtualbox",
 				"node.js",
 				"miriadax",
-				"clínica veterinaria Valdehierro",
 				"windows netplwiz",
 				"windows not type password",
 				"windows no type password",
