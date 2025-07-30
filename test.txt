@@ -1094,7 +1094,7 @@
 		"odd": {
 			"pc": [
 				"temperatura corporal normal",
-				"criterios contacto estrecho"
+				"fiebre"
 			],
 			"mobile": [
 				"glpi plugins",
@@ -1950,7 +1950,7 @@
 				"php export to excel",
 				"php write template",
 				"salvat",
-				"bankia",
+				"caixabank",
 				"oficinas naranja",
 				"ing",
 				"remove localstorage item",
