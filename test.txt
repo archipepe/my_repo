@@ -59,7 +59,6 @@
 				"samsung dual screen laptop",
 				"samsung dual screen mobile",
 				"samsung dual screen foldable phone",
-				"samsung project valley dual-screen foldable phone",
 				"samsung foldable dual screen smartphone",
 				"huawei",
 				"huawei p30",
@@ -607,7 +606,6 @@
 				"wampserver remove versions",
 				"michelle fuller house",
 				"netflix change caption size",
-				"tramos irpf 2022",
 				"nirsoft turn off monitor",
 				"turn off displays script",
 				"script turn off screen"
@@ -842,8 +840,6 @@
 				"free oracle cloud",
 				"close oracle cloud account",
 				"remove-appxpackage",
-				"vclibs 140 14.0.25426.0",
-				"vclibs 140 14.0.25426.0",
 				"microsoft vclibs 140 github",
 				"uninstall appx vclibs 140",
 				"cannot delete cbs.log in use",
@@ -855,9 +851,7 @@
 				"remove old Microsoft.VCLibs.140.00",
 				"ventilador klindo instrucciones",
 				"todo riesgo daños propios",
-				"my lords pray be seated",
-				"VCLibs 14.0.25426.0",
-				"Microsoft.VCLibs.140.0 14.0.25426.0"
+				"my lords pray be seated"
 			]
 		}
 	},
@@ -1262,9 +1256,6 @@
 			"pc": [
 				"revios fails no media",
 				"revios no media",
-				"lg 43uj630v picture blue",
-				"lg 43uj630v vertical blue light",
-				"lg 43UJ630V vertical blue light",
 				"software program led board",
 				"software program lead board",
 				"here maps examples",
@@ -1357,7 +1348,6 @@
 			"mobile": [
 				"titan wolf mouse pad xxl",
 				"titan mouse pad",
-				"vogue us december 2020",
 				"Vogue hombre España",
 				"vogue hombre españa",
 				"portadas vogue hombre",
@@ -1484,7 +1474,6 @@
 				"Windows 10 settings login picture",
 				"Windows 10 settings nee panel with picture",
 				"Windows 10 settings nee panel",
-				"kb4524570",
 				"memrise marco mail",
 				"memrise marco mail",
 				"visual studio code fix indentation",
@@ -1494,7 +1483,6 @@
 				"memrise",
 				"pais babelia día publicación",
 				"windows can't see iphone wifi",
-				"kb4522355",
 				"papas 2"
 			],
 			"mobile": [
@@ -1727,7 +1715,6 @@
 			"mobile": [
 				"google my business",
 				"turn on vs switch on",
-				"obras cm 42",
 				"windows 1809 cursor size",
 				"sequelize versions",
 				"overwrite vs override",
