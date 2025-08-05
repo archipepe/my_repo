@@ -987,7 +987,6 @@
 				"netflix",
 				"hbo max",
 				"gnome window session manager",
-				"android 9 end of support date",
 				"ubuntu enable ir protocols",
 				"ubuntu realtek tv remote control",
 				"ubuntu npg tv remote control",
