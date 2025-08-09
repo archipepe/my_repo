@@ -2059,7 +2059,6 @@
 				"google find my phone",
 				"svg jquery ui",
 				"mantisbt get user language",
-				"globalneltha",
 				"down home cooking translation",
 				"chilly poquet",
 				"miejita",
