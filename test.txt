@@ -1759,7 +1759,6 @@
 		},
 		"complete": {
 			"pc": [
-				"duolingo français le nuage est blanc",
 				"duolingo français espagnol forum",
 				"faire conjugaison",
 				"download memrise apk",
@@ -1791,9 +1790,8 @@
 			"mobile": [
 				"MailChimp",
 				"the crown season 3",
-				"declaración de la renta 2018",
+				"declaración de la renta",
 				"confirmar borrador renta",
-				"confirmar borrador renta 2018",
 				"sentido masaje barriga",
 				"league of legends",
 				"Google recaptcha catchment form",
