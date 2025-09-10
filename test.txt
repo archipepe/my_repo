@@ -741,7 +741,6 @@
 				"desmontar tablet jusyea",
 				"disassemble jusyea tablet",
 				"dns bloquear publicidad",
-				"dns 170.103.130.130",
 				"dns block ads",
 				"arquitectura hexagonal programacion casos de uso",
 				"my tablet won't turn on",
