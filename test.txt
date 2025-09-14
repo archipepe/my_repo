@@ -2045,11 +2045,7 @@
 		},
 		"complete": {
 			"pc": [
-				"october 2018 update direct link",
-				"october 2018 update not showing",
-				"october 2018 upgrade assistant",
-				"force windows 10 october 2018 update",
-				"windows october 2018 update media creation",
+				"windows 11 25h2 iso download",
 				"force windows 10 update",
 				"fullcalendar allday timezone",
 				"google find my phone",
