@@ -1841,7 +1841,7 @@
 				"telegram scale two monitors 4k",
 				"telegram windows not scale correctly",
 				"seguridad social",
-				"datos fiscales declaracion 2018",
+				"datos fiscales declaracion",
 				"dgt",
 				"windows wallpaper location",
 				"Windows insider store faded",
@@ -1969,7 +1969,7 @@
 			],
 			"mobile": [
 				"revista telva",
-				"telva especial navidad 2018",
+				"telva especial navidad",
 				"telva"
 			]
 		},
