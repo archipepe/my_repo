@@ -27,6 +27,9 @@
 				"osx development",
 				"swift osx",
 				"swift ios",
+				"chrome",
+				"chromium",
+				"flutter",
 				"panos",
 				"panos panay",
 				"bill",
@@ -37,6 +40,8 @@
 				"founders of microsoft",
 				"microsoft history",
 				"microsoft",
+				"tony cruz",
+				"tony cantó",
 				"apple",
 				"apple vs microsoft",
 				"apple sues microsoft",
@@ -62,6 +67,8 @@
 				"samsung foldable dual screen smartphone",
 				"huawei",
 				"huawei p30",
+				"udemy diseño",
+				"udemy web gratis",
 				"flutter sdk",
 				"flutter ios",
 				"codecademy",
@@ -74,7 +81,9 @@
 				"udemy cursos",
 				"udemy courses",
 				"udemy login",
-				"udemy for business"
+				"udemy for business",
+				"how to build exe",
+				"develop for windows"
 			]
 		}
 	},
@@ -129,7 +138,14 @@
 				"dart remove property from object",
 				"dart remove property from map",
 				"dart clone object",
-				"how do neutrons are shot at uranium"
+				"how do neutrons are shot at uranium",
+				"windows xerox",
+				"steve jobs",
+				"apple next",
+				"apple cheetah",
+				"apple osx",
+				"spain rain radar",
+				"weather forecast"
 			],
 			"mobile": [
 				"flutter group button",
@@ -151,7 +167,11 @@
 				"consulta saldo prepago vodafone",
 				"saldo vodafone",
 				"javascript get body",
-				"chrome remember password input empty"
+				"chrome remember password input empty",
+				"javascript setinterval",
+				"javascript settimeout",
+				"ich heisse",
+				"me llamo"
 			]
 		}
 	},
@@ -179,6 +199,8 @@
 		},
 		"complete": {
 			"pc": [
+				"the change up",
+				"peaky blinders",
 				"turn on windows automatically",
 				"turn on computer to run scheduled task",
 				"whatsapp messenger",
@@ -187,6 +209,8 @@
 				"flutter pull to refresh bottom",
 				"visual studio code comment block",
 				"memrise mail",
+				"mediamarkt",
+				"worten",
 				"flutter save new line in json",
 				"flutter multiline json",
 				"flutter save paragraphs",
@@ -219,12 +243,17 @@
 				"linguee",
 				"tapon en el odio",
 				"tapon en el oido",
+				"tralla",
+				"whit monday",
+				"java 10",
 				"javascript settimeout",
 				"ultima portada del jueves",
 				"el jueves",
 				"flutter route history",
 				"flutter how to get last route",
-				"dart get previous route"
+				"dart get previous route",
+				"carné conducir",
+				"autoescuelas"
 			]
 		}
 	},
@@ -255,8 +284,12 @@
 				"capricorn lineageos 17",
 				"capricorn lineage 17",
 				"known issues lineageos 16 capricorn",
+				"Citroen C3 screen problems",
+				"nuevo c3",
 				"lagrimal inflamado",
 				"partes del ojo",
+				"the food hall",
+				"aranjuez vips",
 				"puede Amazon cobrar aduana adicional",
 				"Amazon aduanas pago gasto adicional",
 				"Amazon aduanas perdidos globales",
@@ -284,6 +317,8 @@
 				"google connectivity services"
 			],
 			"mobile": [
+				"brave",
+				"brave browser",
 				"terminator",
 				"terminator saga",
 				"texteditingcontroller",
@@ -294,6 +329,9 @@
 				"vlc download",
 				"postman",
 				"node",
+				"metasploit",
+				"kali",
+				"kali linux",
 				"java jre",
 				"git windows",
 				"composer self update",
@@ -332,11 +370,16 @@
 		},
 		"complete": {
 			"pc": [
+				"canillas",
+				"clínica canillas",
 				"loteria navidad reintegros premiados",
 				"outlook",
 				"emulate iphone on windows",
 				"develop ios without mac",
 				"flutter.targetSdkVersion",
+				"tamagotchi pix party battery life",
+				"tamagotchi first gen pdf",
+				"tamagotchi pix party",
 				"android target 30 vs target 31",
 				"android studio new flutter project",
 				"startup bash script gnome-terminal",
@@ -364,6 +407,8 @@
 				"enctype"
 			],
 			"mobile": [
+				"real madrid",
+				"atlético de madrid",
 				"android gmail package name",
 				"gmail package name",
 				"google photos package name",
@@ -374,6 +419,9 @@
 				"magisk performance",
 				"magisk",
 				"magisk android 13",
+				"pascua",
+				"semana pascua",
+				"isla de pascua",
 				"paint dark theme",
 				"android 13 app lock",
 				"pixel how to open files app",
@@ -410,6 +458,10 @@
 		},
 		"complete": {
 			"pc": [
+				"drive",
+				"google drive",
+				"test de velocidad",
+				"urkel actor",
 				"windows firewall local user owner",
 				"windows registry firewall rules",
 				"windows firewall registry",
@@ -439,6 +491,8 @@
 				"windows command trigger maintenance"
 			],
 			"mobile": [
+				"github smart tube next",
+				"vance",
 				"jquery indexeddb",
 				"jquery simulate click",
 				"javascript url encode",
@@ -458,7 +512,9 @@
 				"android emulator black squares",
 				"ivabradina",
 				"haxm installer",
-				"load path in powershell"
+				"load path in powershell",
+				"blinco",
+				"sinónimos salto"
 			]
 		}
 	},
@@ -490,6 +546,10 @@
 				"remove windows apps localization",
 				"remove windowsapps localization",
 				"windowsapps fr es",
+				"photoshop print date on photo",
+				"print date on photo",
+				"lineage  os monochrome",
+				"lineage monochrome",
 				"onenote move pages to left",
 				"windows Partially localized language",
 				"windows dism locale configuration",
@@ -499,6 +559,8 @@
 				"office deployment tool",
 				"download new onenote",
 				"gato",
+				"css what is ancestor",
+				"css ancestor sibling",
 				"friends series song lyrics",
 				"friends lyrics",
 				"jquery prompt yes no",
@@ -528,6 +590,8 @@
 				"which is not an html5 markup",
 				"html5 false markup",
 				"dhtml is a combination of",
+				"regedit languages list",
+				"windows uninstall language",
 				"symfony quiz",
 				"symfony online test",
 				"symfony 5 quiz",
@@ -537,7 +601,9 @@
 				"powershell show languages",
 				"telegram x nearby users",
 				"telegram x nearby users",
-				"telegram nearby users"
+				"telegram nearby users",
+				"reset staterepository",
+				"open sqlite file"
 			]
 		}
 	},
@@ -568,6 +634,12 @@
 		},
 		"complete": {
 			"pc": [
+				"depósito 12 meses",
+				"lestat",
+				"cansera",
+				"css transform",
+				"saber sepo",
+				"saber",
 				"retención irpf nómina",
 				"minimo para poder hacer declaracion renta",
 				"minimo hacer declaracion renta",
@@ -587,9 +659,12 @@
 				"dml dql mysql 5.7 to 8.0",
 				"sql language",
 				"surface pro 4 connect 2 monitors",
-				"tarifa endesa unica"
+				"tarifa endesa unica",
+				"capricorn lineageos"
 			],
 			"mobile": [
+				"saga Bourne",
+				"protagonista matrix",
 				"cscript apply office license",
 				"check office activation status",
 				"refreshed onenote windows 11",
@@ -608,7 +683,9 @@
 				"netflix change caption size",
 				"nirsoft turn off monitor",
 				"turn off displays script",
-				"script turn off screen"
+				"script turn off screen",
+				"joe in spanish",
+				"bien sur"
 			]
 		}
 	},
@@ -645,6 +722,10 @@
 			"pc": [
 				"tornillo pequeño ph0000",
 				"screw ph0",
+				"blogger",
+				"workbench",
+				"bluestacks",
+				"winhttrack",
 				"linux on ipad",
 				"ordenar canales ijoy dvb t",
 				"ordenar canales ijoy",
@@ -654,6 +735,9 @@
 				"hyper-v install ubuntu enhanced",
 				"hyper-v share clipboard ubuntu",
 				"hyper v ubuntu mouse lag",
+				"debian know version",
+				"latest debian",
+				"debian change language",
 				"calgary el mundo",
 				"heidisql remove donate button",
 				"emails donated heidi sql",
@@ -675,6 +759,10 @@
 				"george michael"
 			],
 			"mobile": [
+				"iphone cannot accept calls",
+				"crt connector types",
+				"crt connector",
+				"bicicleta biking",
 				"symfony change directory structure",
 				"symfony routes.yaml import routes",
 				"composer get global config",
@@ -694,7 +782,11 @@
 				"declarar fondos de inversion",
 				"nimo man2035 no jack",
 				"ios 15.1 desactivar lte",
-				"iphone desactivar lte"
+				"iphone desactivar lte",
+				"mega downloads counter",
+				"dollar euro converter",
+				"dashboard",
+				"cygdrive"
 			]
 		}
 	},
@@ -742,6 +834,13 @@
 				"disassemble jusyea tablet",
 				"dns bloquear publicidad",
 				"dns block ads",
+				"Tamagotchi first Gen pdf",
+				"lbs pounds",
+				"lbs",
+				"pure shores",
+				"conversion",
+				"puy du fou",
+				"porcelana",
 				"arquitectura hexagonal programacion casos de uso",
 				"my tablet won't turn on",
 				"almidona",
@@ -758,6 +857,12 @@
 				"lineage best performance slower"
 			],
 			"mobile": [
+				"adaway",
+				"adblock",
+				"adblock for google tv",
+				"smarttube",
+				"fontawesome",
+				"cnae kiosco",
 				"hiper egodulce sl",
 				"hiper hegodulce sl",
 				"klindo ventiladores",
@@ -777,7 +882,9 @@
 				"kodi for lg tv",
 				"youtube",
 				"watch will and grace",
-				"newpipe"
+				"newpipe",
+				"brave apk",
+				"brave nightly"
 			]
 		}
 	},
@@ -804,11 +911,15 @@
 		},
 		"complete": {
 			"pc": [
+				"html5 input number positive",
+				"maxcharacters input",
 				"subsidio por desempleo",
 				"prestación por desempleo",
 				"windows 11 clean surface pro 4",
 				"reinstall windows 10 on surface pro 4",
 				"acrobat x",
+				"python",
+				"node js",
 				"tamagochi uni",
 				"tamagotchi uni angel",
 				"tamagotchi uni monster",
@@ -836,6 +947,8 @@
 				"windowsapps language versions"
 			],
 			"mobile": [
+				"jquery addclass",
+				"jquery hasclass",
 				"free oracle cloud",
 				"close oracle cloud account",
 				"remove-appxpackage",
@@ -849,6 +962,8 @@
 				"force Remove-AppxPackage",
 				"remove old Microsoft.VCLibs.140.00",
 				"ventilador klindo instrucciones",
+				"whit monday",
+				"pentecostés francés",
 				"todo riesgo daños propios",
 				"my lords pray be seated"
 			]
@@ -883,6 +998,10 @@
 				"incidencias movistar",
 				"Movistar",
 				"cobertura 02",
+				"build",
+				"compile",
+				"clean windowsapps folder",
+				"windowsapps remove localization",
 				"differences between telegram and telegram x",
 				"program files windowsapps cleanup",
 				"program files windowsapps",
@@ -901,6 +1020,8 @@
 				"install ubuntu kernels"
 			],
 			"mobile": [
+				"phpstorm ajax debugging",
+				"how to debug ajax",
 				"pantógrafo",
 				"sd card terabyte",
 				"programfiles windowsapps",
@@ -914,6 +1035,8 @@
 				"términos municipales España",
 				"météo madrid",
 				"météo",
+				"expand vdisk",
+				"number of ports",
 				"duolingo",
 				"sportlife mayo",
 				"tiempo madrid",
@@ -948,6 +1071,8 @@
 		},
 		"complete": {
 			"pc": [
+				"primperan jarabe",
+				"test",
 				"debian 11 firmware broadcom",
 				"gmail",
 				"debian cannot load radeon/r300_cp.bin",
@@ -970,9 +1095,14 @@
 				"how to compile lineage on Windows",
 				"check debian version installed",
 				"Debian without spectre fixes",
-				"debian 11 dark theme"
+				"debian 11 dark theme",
+				"ejemplo fines publicitarios irpf",
+				"manuales declaración renta"
 			],
 			"mobile": [
+				"kaffeine remote control",
+				"mythtv fill database connection refused",
+				"backtrack",
 				"lineage 18.1",
 				"ingreso a cuenta repercutido",
 				"ubuntu partition disks",
@@ -991,7 +1121,9 @@
 				"ubuntu npg tv remote control",
 				"npg tv remote control kaffeine",
 				"DVB-T USB remote control kaffeine",
-				"DVB-T USB remote kaffeine"
+				"DVB-T USB remote kaffeine",
+				"java array",
+				"java invalid http response"
 			]
 		}
 	},
@@ -1024,6 +1156,12 @@
 		},
 		"complete": {
 			"pc": [
+				"install ccache",
+				"reset git config",
+				"linux remove directory",
+				"debian how to minimize window",
+				"debian how to minimize",
+				"speed test",
 				"swiftmailer failed recipients Symfony mailer",
 				"burofax no renovacion contrato alquiler",
 				"replace swiftmailer",
@@ -1032,6 +1170,10 @@
 				"iphone whatsapp backup without icloud",
 				"iphone whatsapp backup to google drive",
 				"iphone whatsapp no se pudo completar la copia de seguridad",
+				"ubuntu fstab",
+				"ubuntu fsck cannot continue aborting in recovery",
+				"ubuntu fsck on mounted partition",
+				"ubuntu fsck on boot",
 				"whatsapp ios icloud backup stuck",
 				"symfony 3.4 install flex",
 				"documentación obligatoria coche",
@@ -1055,6 +1197,8 @@
 				"latest Ubuntu kernel",
 				"ubuntu 21.10 screen sharing",
 				"run task scheduler mmc",
+				"Google",
+				"outlook settings",
 				"upgrade Ubuntu hangs libssl1.1",
 				"nuevo c3 correa distribucion",
 				"cambio correas de distribucion",
@@ -1068,7 +1212,9 @@
 				"declare doctrine convert_tz",
 				"mysql convert_tz",
 				"doctrine convert timezone",
-				"virtualhost access permissions"
+				"virtualhost access permissions",
+				"clean yellow phone case",
+				"5 minutes hacks"
 			]
 		}
 	},
@@ -1095,6 +1241,8 @@
 		},
 		"complete": {
 			"pc": [
+				"top tv series",
+				"emule",
 				"vmware 16 windows hyper v platform",
 				"how to show linux icon file explorer",
 				"Windows 11 don't show Linux icon file explorer",
@@ -1102,6 +1250,8 @@
 				"bashrc ccache",
 				"install libwxgtk3.0-dev ubuntu 20",
 				"ubuntu focal libwxgtk3.0-dev",
+				"temperatura corporal normal",
+				"fiebre",
 				"sign custom rom",
 				"download brotli",
 				"corta pastillas",
@@ -1125,6 +1275,8 @@
 				"windows 11 don't show in network"
 			],
 			"mobile": [
+				"mundial fútbol",
+				"olimpiadas",
 				"cannot find digital well-being",
 				"android bien-être numérique",
 				"set up ccache 3.7 Ubuntu",
@@ -1144,7 +1296,9 @@
 				"de mentes peli",
 				"windows check cpu temp",
 				"no linux icon navigation pane",
-				"brunch Android low ram"
+				"brunch Android low ram",
+				"glpi plugins",
+				"gapps pico"
 			]
 		}
 	},
@@ -1178,10 +1332,14 @@
 				"deletedalluserpackages windows 10",
 				"remove windows provisioned apps",
 				"clean up windowsapps folder",
+				"Windows 10 no sound",
+				"prueba",
 				"pronación del pie",
 				"pronacion y supinacion",
 				"supinador o pronador",
 				"calzado supinador",
+				"recommended opengapps",
+				"cyanogenmod vanilla",
 				"google search dark mode",
 				"Premio García de la Cruz 2021",
 				"latest Android edge not available yet",
@@ -1206,6 +1364,12 @@
 			],
 			"mobile": [
 				"url lookup",
+				"amazon prime",
+				"aws",
+				"macos x",
+				"debian",
+				"suse linux",
+				"lubuntu",
 				"kill Havoc os ota",
 				"disable Havoc os ota",
 				"Havoc-OS sourceforge",
@@ -1254,6 +1418,8 @@
 			"pc": [
 				"revios fails no media",
 				"revios no media",
+				"te",
+				"beneficios del té",
 				"software program led board",
 				"software program lead board",
 				"here maps examples",
@@ -1264,6 +1430,8 @@
 				"here maps empty map",
 				"here maps reload empty map",
 				"here maps flash load markers",
+				"aliexpress",
+				"airbnb",
 				"Windows new overhaul",
 				"edge exits unexpectedly when unplugged",
 				"prevent reflection computer screen tricks",
@@ -1277,6 +1445,9 @@
 				"Intel haxm Wsl2",
 				"virtual machine platform",
 				"windows 11 disable hyper-v",
+				"sneaker laces",
+				"bo",
+				"los 100",
 				"realtek infrared software",
 				"windows 7 infrared service",
 				"arcsoft tmmonitor realtek",
@@ -1289,6 +1460,9 @@
 				"linux realtek dtv stick",
 				"Windows 7 sp1 sse",
 				"Windows 7 sp1 sse compatible",
+				"booking",
+				"bankinter",
+				"traductor online",
 				"windows 11 surface pro 4",
 				"force stop chkdsk startup",
 				"force stop chkdsk offline",
@@ -1336,14 +1510,21 @@
 				"batch delete files in folder",
 				"batch search substring in string",
 				"batch variable in string",
+				"mitrastar bridge",
+				"mitrastar user manual",
+				"Mitrastar enable wds",
 				"one handed mode lineageos 16",
 				"batch if else",
 				"bat if else",
 				"bat folder exists",
 				"how to write a bat",
-				"cmd folder exists"
+				"cmd folder exists",
+				"logitech gestures",
+				"prime video"
 			],
 			"mobile": [
+				"github",
+				"github for windows",
 				"titan wolf mouse pad xxl",
 				"titan mouse pad",
 				"Vogue hombre España",
@@ -1362,7 +1543,9 @@
 				"corsair strafe silent",
 				"amazon",
 				"mejores teclados para programadores",
-				"painop_cj00308"
+				"painop_cj00308",
+				"leroy merlin",
+				"brico depot"
 			]
 		}
 	},
@@ -1414,9 +1597,15 @@
 				"windows search generic modern icons",
 				"windows search generic modern icons 2004",
 				"windows search modern icons 2004",
-				"windows search generic icons 2004"
+				"windows search generic icons 2004",
+				"hostinger symfony",
+				"hostinger php version",
+				"jquery ajax",
+				"javascritp xhr"
 			],
 			"mobile": [
+				"000webhost run console",
+				"ssh ftp",
 				"paro indefinido y temporal",
 				"phpstorm 2020 reset evaluation",
 				"powershell rename file",
@@ -1436,7 +1625,11 @@
 				"lineage os telegram notifications",
 				"run repo command in Windows",
 				"lineage os remove audiofx",
-				"createTrack returned error -32"
+				"createTrack returned error -32",
+				"hola",
+				"winrar",
+				"la razón",
+				"crimpadora"
 			]
 		}
 	},
@@ -1481,9 +1674,15 @@
 				"memrise",
 				"pais babelia día publicación",
 				"windows can't see iphone wifi",
-				"papas 2"
+				"papas 2",
+				"restaurantes baratos",
+				"Restaurantes con terraza",
+				"tapón en el oido",
+				"porro en ingles"
 			],
 			"mobile": [
+				"padel",
+				"aprender padel",
 				"horarios ahorramás",
 				"COVID-19",
 				"covid world map",
@@ -1503,7 +1702,9 @@
 				"repair windows search",
 				"embed tableau in website",
 				"dart substring",
-				"dart subs"
+				"dart subs",
+				"tapón en el oido",
+				"porro en ingles"
 			]
 		}
 	},
@@ -1538,6 +1739,9 @@
 				"keytool windows",
 				"flutter firebase messaging",
 				"firebase",
+				"virtualbox",
+				"taxonomy",
+				"mi cloud",
 				"maps",
 				"panaria Madrid",
 				"flutter image picker hangs",
@@ -1551,6 +1755,8 @@
 				"flutter_map empty mapbox",
 				"mapbox",
 				"flutter map diagnosticsnode",
+				"procesador cuántico",
+				"descifrar pass",
 				"miui 11 eu",
 				"flutter map",
 				"git for windows",
@@ -1565,6 +1771,10 @@
 			],
 			"mobile": [
 				"praliné",
+				"black rod",
+				"bbc news",
+				"camilo sesto jesucristo superstar",
+				"jesucristo superstar",
 				"generate password",
 				"windows 10 x",
 				"blas canto",
@@ -1579,6 +1789,8 @@
 				"word reference",
 				"pomodoro",
 				"recetas con avena",
+				"procesador cuántico",
+				"descifrar pass",
 				"runtastic pro adidas",
 				"symfony",
 				"puy du fou toledo",
@@ -1612,6 +1824,8 @@
 		},
 		"complete": {
 			"pc": [
+				"free google apis",
+				"google translate",
 				"programación tv",
 				"gmail app doesn't notify new mail",
 				"facebook turn off chat",
@@ -1634,10 +1848,15 @@
 				"jquery animation div smooth blink effect",
 				"jquery animation div flash effect",
 				"jquery animation div heartbeat",
-				"jquery animate div resize"
+				"jquery animate div resize",
+				"windows sandbox",
+				"chkdsk",
+				"bitlocker recovery key"
 			],
 			"mobile": [
 				"Johnson police officer",
+				"css transform",
+				"css advanced",
 				"debian start gui",
 				"phpstorm jre",
 				"phpstorm java library",
@@ -1645,6 +1864,10 @@
 				"jdk 8",
 				"git",
 				"vlc",
+				"stan lee",
+				"wizard of oz characters",
+				"el mago de Oz",
+				"el bajo de Oz",
 				"reddit",
 				"placeholder",
 				"free api list",
@@ -1686,6 +1909,8 @@
 				"javascript iterate json",
 				"correos compulsa documentos",
 				"cómo compulsar documentos",
+				"Gibraltar Brexit",
+				"dup backstop",
 				"nox screenshot permission",
 				"windows 10 readiness tool",
 				"wikipedia",
@@ -1707,9 +1932,13 @@
 				"windows no type password",
 				"windows login automatically",
 				"dark",
+				"afficher",
+				"elevate app French",
 				"iphone se fast charge"
 			],
 			"mobile": [
+				"maria pombo",
+				"kardashian",
 				"google my business",
 				"turn on vs switch on",
 				"windows 1809 cursor size",
@@ -1729,7 +1958,9 @@
 				"how to edit ani cur",
 				"how to edit cur files",
 				"windows coloured cursors",
-				"settimeout nodejs"
+				"settimeout nodejs",
+				"wimbledon",
+				"roland garros"
 			]
 		}
 	},
@@ -1768,6 +1999,9 @@
 				"surface pro dim watching movies",
 				"surface pro dim display on battery",
 				"dark theme",
+				"Pantagruel",
+				"blogger",
+				"princess margaret",
 				"instalar sillin bicicleta",
 				"recomendación sillín bici estática",
 				"sillín bici estática",
@@ -1786,6 +2020,8 @@
 				"windows default android sdk location"
 			],
 			"mobile": [
+				"ceac",
+				"muybienestar com",
 				"MailChimp",
 				"the crown season 3",
 				"declaración de la renta",
@@ -1804,7 +2040,10 @@
 				"twig set checkbox responsive",
 				"excel increase by 1 when saved",
 				"vogue lyrics",
-				"descargas 2020"
+				"descargas 2020",
+				"try illustrator no credit card",
+				"adobe",
+				"try adobe illustrator"
 			]
 		}
 	},
@@ -1833,6 +2072,11 @@
 		},
 		"complete": {
 			"pc": [
+				"angry birds",
+				"solitaire",
+				"free windows games",
+				"voisin espagnol",
+				"nachbar",
 				"windows 10 insider won't boot",
 				"descifrando el enigma",
 				"soporte surface",
@@ -1858,6 +2102,8 @@
 				"datatables responsive"
 			],
 			"mobile": [
+				"birds cats",
+				"videos for cats",
 				"virtualbox default host key",
 				"Android 9 iso",
 				"latest Android",
@@ -1876,6 +2122,9 @@
 				"swiftkey one language at a time",
 				"windows april 2019 rtm",
 				"download jdk 8",
+				"ikea",
+				"leroy merlin",
+				"jysk",
 				"orange livebox cambiar banda",
 				"avoir subjunctive"
 			]
@@ -1906,6 +2155,10 @@
 		},
 		"complete": {
 			"pc": [
+				"por qué se frotan las patitas online",
+				"por qué se frotan las patitas",
+				"la red sandra bullock",
+				"venom precuela",
 				"sublime text",
 				"nodejs",
 				"download sts 3.9.7",
@@ -1919,6 +2172,8 @@
 				"dépenser en anglais",
 				"tapa amortiguadores",
 				"mars ice",
+				"paypal",
+				"petshop boys",
 				"further from javascript",
 				"a christmas carol",
 				"sync duo preview",
@@ -1928,6 +2183,8 @@
 			],
 			"mobile": [
 				"ataraxia",
+				"iron man",
+				"marvel disney",
 				"acer one long beep",
 				"php export to excel",
 				"php write template",
@@ -1946,7 +2203,9 @@
 				"animate li",
 				"bootstrap 4",
 				"bootstrap template",
-				"google lens"
+				"google lens",
+				"gravedad de la luna",
+				"gravedad en marte"
 			]
 		}
 	},
@@ -1995,11 +2254,18 @@
 				"dulce",
 				"jousep idiomas",
 				"jousep etimologia",
-				"jousep"
+				"jousep",
+				"typescript",
+				"react",
+				"angular",
+				"pms stands for",
+				"acrónimos habituales"
 			],
 			"mobile": [
 				"macro file format xlsx",
 				"o2 españa",
+				"carousel",
+				"bootstrap",
 				"excel enter in cell",
 				"excel hide zero values",
 				"excel open visual basic",
@@ -2017,7 +2283,10 @@
 				"invoice word template calc",
 				"codice plastic",
 				"virtual box",
-				"invoice word template"
+				"invoice word template",
+				"revista telva",
+				"telva especial navidad",
+				"telva"
 			]
 		}
 	},
@@ -2060,7 +2329,12 @@
 				"portallatino",
 				"cinemancha",
 				"windows 1809 release date",
-				"odm model stands for"
+				"odm model stands for",
+				"peugeot",
+				"rent a car",
+				"alquiler de coches",
+				"radar tiempo España",
+				"weather radar"
 			],
 			"mobile": [
 				"indentar",
@@ -2072,6 +2346,8 @@
 				"verify html",
 				"html5 table",
 				"html5 template",
+				"acrotray",
+				"optimize ram",
 				"php ics",
 				"lisístrata",
 				"windows trim ssd",
@@ -2082,7 +2358,9 @@
 				"ctsprofile false",
 				"queen's niece wedding",
 				"queen's niece sarah",
-				"mi5s Android 9"
+				"mi5s Android 9",
+				"html mailto body",
+				"html mailto"
 			]
 		}
 	},
@@ -2112,6 +2390,8 @@
 		},
 		"complete": {
 			"pc": [
+				"wielding",
+				"kanji",
 				"github magisk",
 				"magisk the response is invalid",
 				"magisk manager",
@@ -2120,6 +2400,9 @@
 				"pérdida total mapfre tu eliges",
 				"honda vs onda",
 				"honda",
+				"trivago",
+				"tripadvisor",
+				"junkers",
 				"bootstrap snippets floating button",
 				"bootstrap snippets",
 				"html fixed button translate toolbar",
@@ -2139,6 +2422,9 @@
 				"mapfre auto"
 			],
 			"mobile": [
+				"huawei",
+				"huawei embargo",
+				"huawei eu",
 				"athlon xp 2000",
 				"firefox 52.3.0 download",
 				"bios long beep",
@@ -2158,7 +2444,10 @@
 				"club del rio",
 				"official twrp",
 				"ayuntamiento de madrid",
-				"www.clave.gob/activar"
+				"www.clave.gob/activar",
+				"ahorramás",
+				"endesa",
+				"tarfia social"
 			]
 		}
 	},
@@ -2192,11 +2481,19 @@
 		"complete": {
 			"pc": [
 				"eliminar verrugas",
+				"cilindros bluehdi c3",
+				"citroen c3 nuevo",
+				"seguro coche",
+				"nuevos distintivos gasolineras",
+				"c3 aircross",
+				"nuevo Citroen c3 naranja power",
 				"android arb",
 				"trump queen",
 				"mantis plugin create table",
 				"mantis plugin development",
 				"restaurants",
+				"protonmail",
+				"outlook alternative",
 				"hidden input fields security risk",
 				"certificado digital chrome",
 				"certificado digital para tontos",
@@ -2220,6 +2517,9 @@
 			],
 			"mobile": [
 				"qué es el tae",
+				"programación tv",
+				"novedades tv",
+				"series netflix",
 				"seat",
 				"dacast",
 				"boy",
@@ -2238,7 +2538,10 @@
 				"flush dns Windows",
 				"npm fs html javascript",
 				"require js",
-				"npm require"
+				"npm require",
+				"programas instalados",
+				"agregar o quitar programas",
+				"forzar desinstalar"
 			]
 		}
 	},
@@ -2267,6 +2570,8 @@
 		},
 		"complete": {
 			"pc": [
+				"regex any character",
+				"regex",
 				"symfony prod class logger",
 				"plastic scm two parent branches",
 				"graphical version control",
@@ -2274,6 +2579,8 @@
 				"plastic create develop branch",
 				"plastic main develop branches",
 				"neumonia",
+				"obtención certificado digital",
+				"baja autonomo",
 				"muere edu",
 				"how to plasticscm",
 				"resultado Alemania Suecia",
@@ -2291,7 +2598,13 @@
 				"virtualbox import img"
 			],
 			"mobile": [
+				"tandem",
+				"duo",
+				"memrise",
 				"demandante de empleo",
+				"aeat",
+				"jccm",
+				"mi carpeta ciudadana",
 				"clean up .android .gradle",
 				"surface book 2",
 				"consultor sinónimos",
